@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Manoshi Sen Datta</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Manoshi Sen Datta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microbial interactions and community assembly at microscales</title>
+      <link>/publication/cordero2016-pe/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/cordero2016-pe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution: &#39;snowed&#39; in with the enemy</title>
+      <link>/publication/datta2014-gj/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/datta2014-gj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

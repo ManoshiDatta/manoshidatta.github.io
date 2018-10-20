@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Manoshi Sen Datta</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Manoshi Sen Datta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 30 Apr 2016 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microscale microbial ecology</title>
+      <link>/project/microscale/</link>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/microscale/</guid>
+      <description>Rationale  &amp;ldquo;Microbes are small; their environments are also small.&amp;rdquo; - T.S. Brock.
+ Individual microbes (~1 µm) sense and respond to their local microenvironment, which often has a characteristic length scale of ~100 µm. However, microbial communities in the wild are typically studied at human-centric scales (meters or more). This has limited our ability to identify mechanistic drivers of microbial activity, infer meaningful interaction networks, and rationally engineer microbial communities.</description>
+    </item>
+    
+    <item>
+      <title>Microbial evolution</title>
+      <link>/project/microbial-evolution/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/microbial-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational methods</title>
+      <link>/project/methods-for-microbial-ecology/</link>
+      <pubDate>Sun, 24 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/methods-for-microbial-ecology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
